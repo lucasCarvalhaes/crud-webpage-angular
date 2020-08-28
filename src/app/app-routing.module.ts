@@ -8,7 +8,7 @@ import { ProductCrudComponent } from './views/product-crud/product-crud.componen
 const routes: Routes = [
   {
     path: "",
-    component:HomeComponent
+    component: HomeComponent
   },
   {
     path: "products",
