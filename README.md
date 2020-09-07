@@ -1,4 +1,20 @@
-# Frontend
+# CRUD usando angular
+
+## Tela inicial
+
+<img src="frontend/src/assets/screenshots/home.png">
+
+## Tela de cadastro de produtos
+
+<img src="frontend/src/assets/screenshots/tabelaProdutos.png">
+
+## Formulário de update
+
+<img src="frontend/src/assets/screenshots/formularioUpdate.png">
+
+## Formulário de delete
+
+<img src="frontend/src/assets/screenshots/formularioDelete.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
