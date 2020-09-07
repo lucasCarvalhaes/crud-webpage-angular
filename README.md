@@ -1,20 +1,22 @@
 # CRUD usando angular
 
-## Tela inicial
+##### Feito como parte do curso Web Moderno da Cod3r
 
-<img src="frontend/src/assets/screenshots/home.png">
+### Tela inicial
 
-## Tela de cadastro de produtos
+<img src="src/assets/screenshots/home.png">
 
-<img src="frontend/src/assets/screenshots/tabelaProdutos.png">
+### Tela de cadastro de produtos
 
-## Formulário de update
+<img src="src/assets/screenshots/tabelaProdutos.png">
 
-<img src="frontend/src/assets/screenshots/formularioUpdate.png">
+### Formulário de update
 
-## Formulário de delete
+<img src="src/assets/screenshots/formularioUpdate.png">
 
-<img src="frontend/src/assets/screenshots/formularioDelete.png">
+### Formulário de delete
+
+<img src="src/assets/screenshots/formularioDelete.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
